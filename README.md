@@ -13,10 +13,10 @@ GIVEN I need a new, secure password WHEN I click the button to generate a passwo
 I utilized variables, if else variables, if else statements, queeryselctor, and event listeners to be able to create clear peramiters.
 
 ## Screenshot
+![Screenshot 2023-02-10 123411](https://user-images.githubusercontent.com/121833930/219515956-51754440-e146-4f94-8c87-35517b0c7faf.png)
 
-
-Link to Deployed Website
+## Link to Deployed Website
 https://olynnc888.github.io/passwordgenerator/
 
-Link to GitHub Repository
+## Link to GitHub Repository
 https://github.com/olynnc888/passwordgenerator.git
